@@ -95,7 +95,7 @@ public class Application {
     private static void login() {
         try {
             System.out.print("Enter Profile ID: ");
-            System.out.println("Loh");
+            System.out.println("Loh1");
             int profileId = Integer.parseInt(in.next());
 
             System.out.print("Enter Password: ");
